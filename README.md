@@ -2,9 +2,8 @@
 
 An interactive sales analytics dashboard built with **Python, Streamlit, Pandas, and Plotly**. It turns raw Superstore sales data into KPIs, filterable charts, and regional and product insights.
 
-**🔗 Live demo:** [your-app.streamlit.app](https://your-app.streamlit.app)
+**Live demo:** [superstore-sales-dashboard-mudavadif80.streamlit.app](https://superstore-sales-dashboard-mudavadif80.streamlit.app/)
 
-![Dashboard screenshot](docs/screenshot.png)
 
 ## Overview
 
@@ -82,7 +81,7 @@ superstore-sales-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/superstore-sales-dashboard.git
+git clone https://github.com/MudavadiF80/superstore-sales-dashboard.git
 cd superstore-sales-dashboard
 ```
 
