@@ -181,5 +181,3 @@ st.plotly_chart(fig4, use_container_width=True, key='region_sales_chart')
 st.subheader('Filtered Data')
 st.dataframe(filtered_df, use_container_width=True, hide_index=True)
 st.caption(f'Showing {len(filtered_df)} filtered rows out of {len(df)} total rows')
-
-df = pd.read_csv('Superstore.csv', encoding='latin1')
